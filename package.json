@@ -1,7 +1,7 @@
 {
   "name": "homebridge-squeezebox",
   "version": "0.1.5",
-  "author": "Martin Purcell <martin.purcell@gmail.com>",
+  "author": "Rainer M Krug <Rainer@Krugs.de>",
   "description": "Squeezebox plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
   "keywords": [
@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/greebowarrior/homebridge-squeezebox.git"
+    "url": "git@github.com:rkrug/homebridge-squeezebox.git"
   },
   "bugs": {
-    "url": "http://github.com/greebowarrior/homebridge-squeezebox/issues"
+    "url": "https://github.com/rkrug/homebridge-squeezebox/issues"
   },
   "engines": {
     "node": ">=0.12.0",

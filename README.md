@@ -1,7 +1,8 @@
 # homebridge-squeezebox
 
+I am working on this - let's see what comest out of it.
+
 Work in progress, may or may not work for you.
-Tested with Squeezebox Radio and Squeezebox Duet.
 
 Example config.json
 
