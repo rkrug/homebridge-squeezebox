@@ -1,6 +1,6 @@
 {
   "name": "homebridge-squeezebox2",
-  "version": "0.1.5",
+  "version": "0.1.0",
   "author": "Rainer M Krug <Rainer@Krugs.de>",
   "description": "Squeezebox plugin for homebridge: https://github.com/nfarina/homebridge",
   "license": "ISC",
