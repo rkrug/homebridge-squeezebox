@@ -1,5 +1,5 @@
 {
-  "name": "homebridge-squeezebox",
+  "name": "homebridge-squeezebox2",
   "version": "0.1.5",
   "author": "Rainer M Krug <Rainer@Krugs.de>",
   "description": "Squeezebox plugin for homebridge: https://github.com/nfarina/homebridge",
