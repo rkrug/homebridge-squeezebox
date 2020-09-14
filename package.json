@@ -13,7 +13,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:rkrug/homebridge-squeezebox.git"
+    "url": "git+ssh://git@github.com/rkrug/homebridge-squeezebox.git"
   },
   "bugs": {
     "url": "https://github.com/rkrug/homebridge-squeezebox/issues"
@@ -24,5 +24,11 @@
   },
   "dependencies": {
     "squeezenode-lordpengwin": "github:lordpengwin/squeezenode"
+  },
+  "homepage": "https://github.com/rkrug/homebridge-squeezebox#readme",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
